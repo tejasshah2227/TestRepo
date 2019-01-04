@@ -1,0 +1,100 @@
+Dept. de Fisica, CNEA, Buenos Aires, Argentina	ARGENTINA	-34.5729631	-58.5118103	 COMISION NACIONAL DE ENERGA�A ATOMICA (CNEA) 	ARGENTINA	-34.5729631	-58.5118103	Buenos Aires	0.0
+
+Fac. of Eng., Univ. of Mar del Plata, Mar del Plata, Argentina	ARGENTINA	-38.0269804	-57.561510399999996	 HOSPITAL PRIVADO DE COMUNIDAD 	ARGENTINA	-38.02223710000001	-57.565539	Mar del Plata	0.63
+
+Inst. de Fisica, Univ. Nacional Tucuman, Argentina	ARGENTINA	-26.836396	-65.2111408	 NATIONAL UNIVERSITY OF TUCUMAN 	ARGENTINA	-26.836396	-65.2111408	San Miguel de Tucumán	0.0
+
+Yerevan State University, Yerevan 0025, Armenia	ARMENIA	40.1817804	44.52624350000001	 YEREVAN STATE UNIVERSITY 	ARMENIA	40.1817804	44.52624350000001	Yerevan	0.0
+
+LEA-DEE-CT-UFPA, Belem, Brazil	BRAZIL	41.60322070000001	-73.087749	 BUNKER HILL ELEMENTARY SCHOOL 	UNITED STATES OF AMERICA	41.567799	-73.06254299999998	Waterbury	4.46
+
+Instituto de F&#237;sica, Universidade Federal Fluminense, 24210-340 Niter&#243;i - RJ, Brasil	BRAZIL	-14.235004	-51.92528	 BIOPCYCLE (BRAZIL) 	BRAZIL	-14.235004	-51.92528	Serrana	0.0
+
+Programa de P&#x00F3;s Gradua&#x00E7;&#x00E3;o em Computa&#x00E7;&#x00E3;o, Instituto de Computa&#x00E7;&#x00E3;o - Universidade Federal Fluminense - Niter&#x00F3;i, Brasil	BRAZIL	-14.235004	-51.92528	 BIOPCYCLE (BRAZIL) 	BRAZIL	-14.235004	-51.92528	Serrana	0.0
+
+Univ. de Brasilia (UnB), Brasilia, Brazil	BRAZIL	-15.7631573	-47.8706311	 UNIVERSITY OF BRASA�LIA 	BRAZIL	-15.7631573	-47.8706311	Brasília	0.0
+
+Centro de Inf., Univ. Fed. de Pernambuco, Recife, Brazil	BRAZIL	-8.0524478	-34.9497286	 FEDERAL UNIVERSITY OF PERNAMBUCO 	BRAZIL	-8.0524478	-34.9497286	Recife	0.0
+
+Centro de Inf., Univ. Fed. de Pernambuco, Recife, Brazil	BRAZIL	-8.0524478	-34.9497286	 FEDERAL UNIVERSITY OF PERNAMBUCO 	BRAZIL	-8.0524478	-34.9497286	Recife	0.0
+
+Centro de Inf., Univ. Fed. de Pernambuco, Recife, Brazil	BRAZIL	-8.0524478	-34.9497286	 FEDERAL UNIVERSITY OF PERNAMBUCO 	BRAZIL	-8.0524478	-34.9497286	Recife	0.0
+
+Centro de Inf., Univ. Fed. de Pernambuco, Recife, Brazil	BRAZIL	-8.0524478	-34.9497286	 FEDERAL UNIVERSITY OF PERNAMBUCO 	BRAZIL	-8.0524478	-34.9497286	Recife	0.0
+
+Centro de Informdtica, Univ. Fed. de Pernambuco, Recife, Brazil	BRAZIL	-8.0556681	-34.951578000000005	 CENTRO DE TECNOLOGIAS ESTRATEGICAS DO NORDESTE 	BRAZIL	-8.0580315	-34.94950479999999	Recife	0.35
+
+Centro de Inform&#x03B1;tica, Univ. Fed. de Pernambuco, Recife, Brazil	BRAZIL	-8.0556681	-34.951578000000005	 CENTRO DE TECNOLOGIAS ESTRATEGICAS DO NORDESTE 	BRAZIL	-8.0580315	-34.94950479999999	Recife	0.35
+
+Dept. de Estatitica e Inform&#x03B1;tica, Univ. Fed. Rural de Pernambuco Recife, Recife, Brazil	BRAZIL	-8.0175094	-34.9492219	 FEDERAL RURAL UNIVERSITY OF PERNAMBUCO 	BRAZIL	-8.0175094	-34.9492219	Recife	0.0
+
+Univ. Fed. de Pernambuco, Recife, Brazil	BRAZIL	-8.0524478	-34.9497286	 FEDERAL UNIVERSITY OF PERNAMBUCO 	BRAZIL	-8.0524478	-34.9497286	Recife	0.0
+
+Comput. Sci. Dept., UFMG, Belo Horizonte, Brazil	BRAZIL	-19.8690878	-43.9663841	 UNIVERSIDADE FEDERAL DE MINAS GERAIS 	BRAZIL	-19.8690878	-43.9663841	Belo Horizonte	0.0
+
+Comput. Sci. Dept., Univ. Fed. de Minas Gerais, Belo Horizonte, Brazil	BRAZIL	-19.869588	-43.964653000000006	 UNIVERSIDADE FEDERAL DE MINAS GERAIS 	BRAZIL	-19.8690878	-43.9663841	Belo Horizonte	0.19
+
+Computer Science Department, Federal University of Minas Gerais - UFMG, Belo Horizonte, Brazil	BRAZIL	-19.8690878	-43.9663841	 UNIVERSIDADE FEDERAL DE MINAS GERAIS 	BRAZIL	-19.8690878	-43.9663841	Belo Horizonte	0.0
+
+Dept. de Engenharia Eletronica, Univ. Fed. de Minas Gerais, Belo Horizonte, Brazil	BRAZIL	-19.870029199999998	-43.9632002	 MINAS JR 	BRAZIL	-19.8725429	-43.9648718	Belo Horizonte	0.33
+
+CTA/IEAv, Brazil	BRAZIL	-23.220615	-45.853989	 DEPARTMENT OF AEROSPACE SCIENCE AND TECHNOLOGY (CTA/IEAV) 	BRAZIL	-23.220615	-45.853989	São José dos Campos	0.0
+
+Laborat&#243;rio de Eletromagnetismo Aplicado, LMAG-PEA, Escola Polit&#233;cnica da Universidade de S&#227;o Paulo, Av. Prof. Luciano Gualberto 158, Zip code 05508-900, Brazil	BRAZIL	-23.5575088	-46.7303598	 FUNDAA�A�O DE APOIO AO INSTITUTO DE PESQUISAS TECNOLOGICAS 	BRAZIL	-23.5568133	-46.7346776	São Paulo	0.45
+
+Inst. for Studies in Quantum Comput. & Inf., Fed. Univ. of Campina Grande, Campina Grande, Brazil	BRAZIL	-7.216617100000001	-35.9084584	 FEDERAL UNIVERSITY OF CAMPINA GRANDE 	BRAZIL	-7.2166171000000015	-35.9084584	Campina Grande	0.0
+
+Dept. de Comput. Aplic., Univ. Fed. de Santa Maria, Santa Maria, Brazil	BRAZIL	-29.713344	-53.716820999999996	 UNIVERSIDADE FEDERAL DE SANTA MARIA 	BRAZIL	-29.713344	-53.716821	Santa Maria	0.0
+
+Programa de Pos Grad. em Comput. Inst. de Comput., Univ. Fed. Fluminense, Niteroi, Brazil	BRAZIL	-22.9001157	-43.1346429	 CENTRO UNIVERSITA�RIO PLA�NIO LEITE 	BRAZIL	-22.8971558	-43.1273575	Niterói	0.82
+
+Division of Applied Physics, Institute for Advanced Studies, IEAv, Sao Jose dos Campos - Brazil	BRAZIL	-23.2483009	-45.8598948	 IEAv - Institute for Advanced Study 	BRAZIL	-23.2483009	-45.8598948	San Jose Dos Campos	0.0
+
+Applied Physics Division, Instituto de Estudos Avan&#x00E7;ados - IEAv, S&#x00E3;o Jos&#x00E9; dos Campos, Brazil	BRAZIL	-14.235004	-51.92528	 BIOPCYCLE (BRAZIL) 	BRAZIL	-14.235004	-51.92528	Serrana	0.0
+
+Centro Federal de Educa&#x00E7;&#x00E3;o Tecnol&#x00F3;gica de Minas Gerais - CEFET-MG, Brazil	BRAZIL	-18.512178	-44.5550308	 UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI 	BRAZIL	-18.2022062	-43.5736174	Diamantina	109.16
+
+Dept. of Biophys., Univ. Fed. do Rio Grande do Norte, Natal, Brazil	BRAZIL	-5.8393707	-35.2007727	 FEDERAL UNIVERSITY OF RIO GRANDE DO NORTE 	BRAZIL	-5.8393707	-35.2007727	Natal	0.0
+
+Dept. of Math. &amp; Stat., State Univ. of Ponta Grossa - UEPG, Ponta Grossa, Brazil	BRAZIL	-25.0866233	-50.16092520000001	 PONTA GROSSA STATE UNIVERSITY 	BRAZIL	-25.0866233	-50.16092520000001	Ponta Grossa	0.0
+
+Anderson Pires Singulani, Marco Aur&#x00E9;lio C. Pacheco, Patr&#x00ED;cia Lustoza de Souza, PUC-Rio, INCT-DISSE, Rio de Janeiro, RJ, Brazil	BRAZIL	-22.811901199999998	-43.178681700000006	 INSTITUTO DE PESQUISAS DA MARINHA 	BRAZIL	-22.820754	-43.1875794	Rio de Janeiro	1.34
+
+Applied Computational Intelligence Lab - Electrical Engineering Department, Pontifical Catholic University of Rio de Janeiro, Brazil	BRAZIL	-22.9791074	-43.23308249999999	 PONTIFICAL CATHOLIC UNIVERSITY OF RIO DE JANEIRO 	BRAZIL	-22.9791074	-43.23308249999999	Rio de Janeiro	0.0
+
+Applied Computational Intelligence Lab (ICA), Department of Electrical Engineering, Pontif&#237;cia Universidade Cat&#243;lica do Rio de Janeiro (PUC-Rio), R. Marqu&#234;s de S. Vicente, 225/615-L, CEP 22451-900, Brazil	BRAZIL	-13.9379378	-75.8007093	 SAINT ALOYSIUS GONZAGA NATIONAL UNIVERSITY 	PERU	-14.0871322	-75.7335148	Ica	18.1
+
+Department of Electrical Engineering, Pontifical Catholic University of Rio de Janeiro (PUC-Rio), Brazil	BRAZIL	-22.9791074	-43.23308249999999	 PONTIFICAL CATHOLIC UNIVERSITY OF RIO DE JANEIRO 	BRAZIL	-22.9791074	-43.23308249999999	Rio de Janeiro	0.0
+
+Department of Electrical Engineering, Pontifical Catholic University of Rio de Janeiro, Brazil	BRAZIL	-22.9791074	-43.23308249999999	 PONTIFICAL CATHOLIC UNIVERSITY OF RIO DE JANEIRO 	BRAZIL	-22.9791074	-43.23308249999999	Rio de Janeiro	0.0
+
+Department of Electrical Engineering, Pontifical Catholic University of Rio de Janeiro, Brazil	BRAZIL	-22.9791074	-43.23308249999999	 PONTIFICAL CATHOLIC UNIVERSITY OF RIO DE JANEIRO 	BRAZIL	-22.9791074	-43.23308249999999	Rio de Janeiro	0.0
+
+Department of Electrical Engineering, PUC-Rio, Rio de Janeiro, Brazil	BRAZIL	-22.9791074	-43.23308249999999	 PONTIFICAL CATHOLIC UNIVERSITY OF RIO DE JANEIRO 	BRAZIL	-22.9791074	-43.23308249999999	Rio de Janeiro	0.0
+
+Dept. de Fisica, Pontifica Univ. Catolica do Rio de Janeiro, Brazil	BRAZIL	-22.9791074	-43.23308249999999	 PONTIFICAL CATHOLIC UNIVERSITY OF RIO DE JANEIRO 	BRAZIL	-22.9791074	-43.23308249999999	Rio de Janeiro	0.0
+
+Dept. of Electr. Eng. Rua Marques de Sao Vicente, Pontifical Catholic Univ. of Rio de Janeiro, Gavea, Brazil	BRAZIL	-22.9791074	-43.23308249999999	 PONTIFICAL CATHOLIC UNIVERSITY OF RIO DE JANEIRO 	BRAZIL	-22.9791074	-43.23308249999999	Rio de Janeiro	0.0
+
+Dept. of Electr. Eng., Pontifical Catholic Univ. of Rio de Janeiro (PUC-Rio), Rio de Janeiro, Brazil	BRAZIL	-22.9790067	-43.23247689999999	 PONTIFICAL CATHOLIC UNIVERSITY OF RIO DE JANEIRO 	BRAZIL	-22.9791074	-43.23308249999999	Rio de Janeiro	0.06
+
+LabSem/CETUC, Pontif&#x00ED;cia Universidade Cat&#x00F3;lica, Rio de Janeiro, 22451-900, Brazil	BRAZIL	-22.9790067	-43.23247689999999	 PONTIFICAL CATHOLIC UNIVERSITY OF RIO DE JANEIRO 	BRAZIL	-22.9791074	-43.23308249999999	Rio de Janeiro	0.06
+
+Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ 21941-972, Brazil	BRAZIL	-22.9541412	-43.1753638	 FEDERAL UNIVERSITY OF RIO DE JANEIRO 	BRAZIL	-22.9541412	-43.1753638	Rio de Janeiro	0.0
+
+Dept. de Comput., Univ. Fed. de Sao Carlos, Sao Carlos, Brazil	BRAZIL	-21.984144600000004	-47.8802454	 FEDERAL UNIVERSITY OF SA�O CARLOS 	BRAZIL	-21.984144600000004	-47.8802454	São Carlos	0.0
+
+CNEN, Inst. de Pesquisas Energeticas e Nucl., Sao Paulo, Brazil	BRAZIL	-23.5640411	-46.735847799999995	 INSTITUTO DE PESQUISAS ENERGETICAS E NUCLEARES 	BRAZIL	-23.5640411	-46.7358478	São Paulo	0.0
+
+Departamento de Telem&#233;tica, Universidade Estadual de Campinas, S&#227;o Paulo, Brazil	BRAZIL	-22.8184393	-47.0647206	 STATE UNIVERSITY OF CAMPINAS 	BRAZIL	-22.8184393	-47.0647206	Campinas	0.0
+
+Departamento de Telem&#x00E1;tica, Universidade Estadual de Campinas, S&#x00E3;o Paulo, Brazil 13083-970	BRAZIL	-22.932925199999996	-47.073845	 BCS TECNOLOGIA (BRAZIL) 	BRAZIL	-22.9329252	-47.073845	Campinas	0.0
+
+Department of Microwaves and Optics, School of Electrical and Computer Engineering, University of Campinas, S&#x00E3;o Paulo, Brazil	BRAZIL	-22.8211779	-47.065978799999996	 ASSOCIAA�A�O DOS GEOGRAFOS BRASILEIROS 	BRAZIL	-22.8239082	-47.0653706	Campinas	0.31
+
+Dept. de Fisica e Inf., Sao Paulo Univ., Brazil	BRAZIL	-23.560242300000002	-46.7349292	 SOCIEDADE BRASILEIRA DE ALIMENTAA�A�O E NUTRIA�A�O 	BRAZIL	-23.5619632	-46.7347535	São Paulo	0.19
+
+Dept. of Comput. & Digital Syst. Eng., Escola Politec. of Univ. of Sao Paulo, Sao Paulo, Brazil	BRAZIL	-23.557164399999998	-46.730234	 INSTITUTO DE PESQUISAS TECNOLOGICAS 	BRAZIL	-23.5568133	-46.7346776	São Paulo	0.45
+
+Inst. de Fisica de Sao Carlos, Sao Paulo Univ., Sao Carlos, Brazil	BRAZIL	-22.0084671	-47.89777830000001	 SANTA CASA DE MISERICORDIA DE SA�O CARLOS 	BRAZIL	-22.0119659	-47.90111479999999	São Carlos	0.52
+
